@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EDA", "src\EDA.csproj", "{C2FE3A46-2884-4CC7-A90D-236BDA5D10BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2FE3A46-2884-4CC7-A90D-236BDA5D10BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2FE3A46-2884-4CC7-A90D-236BDA5D10BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2FE3A46-2884-4CC7-A90D-236BDA5D10BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2FE3A46-2884-4CC7-A90D-236BDA5D10BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
